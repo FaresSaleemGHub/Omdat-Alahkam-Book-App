@@ -37,6 +37,14 @@ The app provides full access to the chapters and hadiths of *Umdat al-Ahkam*, al
 
 ---
 
+## 🛠️ Built With
+- **Java** – for backend logic
+- **XML** – for Android UI layouts
+- **Android Studio** – development environment
+- **Gradle** – build system
+
+---
+
 ## 📱 App Demo
 Here’s a quick preview of the app in action:
 ### 🖼️ Image Preview
