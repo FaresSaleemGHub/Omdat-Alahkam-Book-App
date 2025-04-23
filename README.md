@@ -37,17 +37,6 @@ The app provides full access to the chapters and hadiths of *Umdat al-Ahkam*, al
 
 ---
 
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   https://github.com/FaresSaleemGHub/Omdat-Alahkam-Book-App.git
-2. Open with Android Studio.
-3. Connect to Firebase (or use your own config).
-4. Build & Run on an Android device or emulator.
-
----
-
 ## 📱 App Demo
 Here’s a quick preview of the app in action:
 ### 🖼️ Image Preview
@@ -60,6 +49,17 @@ Here’s a quick preview of the app in action:
 
 ## 📱 Download APK
 [Click here to download the latest APK](apk/app-release.apk)
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   https://github.com/FaresSaleemGHub/Omdat-Alahkam-Book-App.git
+2. Open with Android Studio.
+3. Connect to Firebase (or use your own config).
+4. Build & Run on an Android device or emulator.
 
 ---
 
