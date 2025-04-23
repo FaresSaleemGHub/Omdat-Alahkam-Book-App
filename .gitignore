@@ -1,0 +1,24 @@
+# Android Studio
+*.iml
+.idea/
+.DS_Store
+local.properties
+
+# Gradle
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+
+# Logs
+*.log
+
+# APKs and binaries
+*.zip
+*.mp4
+
+# Captures
+captures/
+
+# Misc
+*.DS_Store
