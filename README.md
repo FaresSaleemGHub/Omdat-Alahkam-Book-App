@@ -60,17 +60,6 @@ Here’s a quick preview of the app in action:
 
 ---
 
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   https://github.com/FaresSaleemGHub/Omdat-Alahkam-Book-App.git
-2. Open with Android Studio.
-3. Connect to Firebase (or use your own config).
-4. Build & Run on an Android device or emulator.
-
----
-
 ## 👤 Author
 Written with passion by – @FaresSaleemGHub
 
